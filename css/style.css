@@ -1,6 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline:opsz,wght@10..72,100..900&display=swap');
+
 html, body {
     height: 100%;
     width: 100%;
+    font-family: big shoulders inline;
 }
 
 .button{
